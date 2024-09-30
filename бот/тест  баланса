@@ -1,0 +1,16 @@
+import ccxt
+import os
+from dotenv import load_dotenv
+
+load_dotenv(r'C:\Users\lisyu\бот\API.env')
+
+API_KEY = os.getenv('API_KEY')  
+API_SECRET = os.getenv('API_SECRET')
+
+exchange = ccxt.binance({
+    'apiKey': API_KEY,
+    'secret': API_SECRET,
+})
+
+balance = exchange.fetch_balance()
+print(balance)

@@ -1,0 +1,584 @@
+2024-09-29 16:23:16,715 - __main__ - INFO - Общая физическая память: 15.94 ГБ
+2024-09-29 16:23:16,716 - __main__ - INFO - Настроено использование 4 ядер процессора
+2024-09-29 16:23:16,716 - __main__ - INFO - GPU не обнаружен, используется только CPU
+2024-09-29 16:23:16,716 - __main__ - INFO - Применены оптимизации для CPU
+2024-09-29 16:23:16,717 - __main__ - INFO - Применена политика событийного цикла для Windows
+2024-09-29 16:23:16,718 - __main__ - INFO - Установлен лимит использования памяти: 14.34 GB
+2024-09-29 16:23:16,720 - __main__ - INFO - Запуск торгового бота...
+2024-09-29 16:23:16,721 - __main__ - INFO - Бот запускается...
+2024-09-29 16:23:17,014 - __main__ - INFO - Сообщение о запуске отправлено
+2024-09-29 16:23:17,014 - __main__ - INFO - Запуск задач непрерывного анализа и торговли...
+2024-09-29 16:23:17,015 - __main__ - INFO - Начало поллинга...
+2024-09-29 16:23:17,015 - aiogram.dispatcher - INFO - Start polling
+2024-09-29 16:23:17,016 - __main__ - INFO - Начало цикла непрерывного анализа
+2024-09-29 16:23:17,020 - __main__ - INFO - Торговля приостановлена
+2024-09-29 16:23:17,576 - aiogram.dispatcher - INFO - Run polling for bot @MoiBabkiSTAT_bot id=7549127107 - 'My/Mony'
+2024-09-29 16:23:25,980 - __main__ - ERROR - Ошибка при анализе пары BTCUSDT/ETHUSDT: binance does not have market symbol BTCUSDT/ETHUSDT
+2024-09-29 16:23:25,980 - __main__ - ERROR - Ошибка при анализе пары BTCUSDT/LTCUSDT: binance does not have market symbol BTCUSDT/LTCUSDT
+2024-09-29 16:23:25,980 - __main__ - ERROR - Ошибка при анализе пары BTCUSDT/XRPUSDT: binance does not have market symbol BTCUSDT/XRPUSDT
+2024-09-29 16:23:25,980 - __main__ - ERROR - Ошибка при анализе пары BTCUSDT/BNBUSDT: binance does not have market symbol BTCUSDT/BNBUSDT
+2024-09-29 16:23:25,981 - __main__ - ERROR - Ошибка при анализе пары ETHUSDT/BTCUSDT: binance does not have market symbol ETHUSDT/BTCUSDT
+2024-09-29 16:23:25,981 - __main__ - ERROR - Ошибка при анализе пары ETHUSDT/LTCUSDT: binance does not have market symbol ETHUSDT/LTCUSDT
+2024-09-29 16:23:25,982 - __main__ - ERROR - Ошибка при анализе пары ETHUSDT/XRPUSDT: binance does not have market symbol ETHUSDT/XRPUSDT
+2024-09-29 16:23:25,982 - __main__ - ERROR - Ошибка при анализе пары ETHUSDT/BNBUSDT: binance does not have market symbol ETHUSDT/BNBUSDT
+2024-09-29 16:23:25,983 - __main__ - ERROR - Ошибка при анализе пары LTCUSDT/BTCUSDT: binance does not have market symbol LTCUSDT/BTCUSDT
+2024-09-29 16:23:25,983 - __main__ - ERROR - Ошибка при анализе пары LTCUSDT/ETHUSDT: binance does not have market symbol LTCUSDT/ETHUSDT
+2024-09-29 16:23:25,983 - __main__ - ERROR - Ошибка при анализе пары LTCUSDT/XRPUSDT: binance does not have market symbol LTCUSDT/XRPUSDT
+2024-09-29 16:23:25,984 - __main__ - ERROR - Ошибка при анализе пары LTCUSDT/BNBUSDT: binance does not have market symbol LTCUSDT/BNBUSDT
+2024-09-29 16:23:25,984 - __main__ - ERROR - Ошибка при анализе пары XRPUSDT/BTCUSDT: binance does not have market symbol XRPUSDT/BTCUSDT
+2024-09-29 16:23:25,984 - __main__ - ERROR - Ошибка при анализе пары XRPUSDT/ETHUSDT: binance does not have market symbol XRPUSDT/ETHUSDT
+2024-09-29 16:23:25,985 - __main__ - ERROR - Ошибка при анализе пары XRPUSDT/LTCUSDT: binance does not have market symbol XRPUSDT/LTCUSDT
+2024-09-29 16:23:25,985 - __main__ - ERROR - Ошибка при анализе пары XRPUSDT/BNBUSDT: binance does not have market symbol XRPUSDT/BNBUSDT
+2024-09-29 16:23:25,986 - __main__ - ERROR - Ошибка при анализе пары BNBUSDT/BTCUSDT: binance does not have market symbol BNBUSDT/BTCUSDT
+2024-09-29 16:23:25,987 - __main__ - ERROR - Ошибка при анализе пары BNBUSDT/ETHUSDT: binance does not have market symbol BNBUSDT/ETHUSDT
+2024-09-29 16:23:25,987 - __main__ - ERROR - Ошибка при анализе пары BNBUSDT/LTCUSDT: binance does not have market symbol BNBUSDT/LTCUSDT
+2024-09-29 16:23:25,987 - __main__ - ERROR - Ошибка при анализе пары BNBUSDT/XRPUSDT: binance does not have market symbol BNBUSDT/XRPUSDT
+2024-09-29 16:41:06,268 - __main__ - INFO - Общая физическая память: 15.94 ГБ
+2024-09-29 16:49:20,170 - __main__ - INFO - Общая физическая память: 15.94 ГБ
+2024-09-29 16:49:20,171 - __main__ - INFO - Настроено использование 4 ядер процессора
+2024-09-29 16:49:20,171 - __main__ - INFO - GPU не обнаружен, используется только CPU
+2024-09-29 16:49:20,172 - __main__ - INFO - Применены оптимизации для CPU
+2024-09-29 16:49:20,172 - __main__ - INFO - Применена политика событийного цикла для Windows
+2024-09-29 16:49:20,174 - __main__ - INFO - Установлен лимит использования памяти: 14.34 GB
+2024-09-29 16:49:20,174 - __main__ - INFO - Запуск торгового бота...
+2024-09-29 16:49:20,176 - __main__ - INFO - Бот запускается...
+2024-09-29 16:49:25,417 - __main__ - INFO - Сообщение о запуске отправлено
+2024-09-29 16:49:25,417 - __main__ - INFO - Запуск задач непрерывного анализа...
+2024-09-29 16:49:25,417 - __main__ - INFO - Начало поллинга...
+2024-09-29 16:49:25,417 - aiogram.dispatcher - INFO - Start polling
+2024-09-29 16:49:25,418 - __main__ - INFO - Начало цикла непрерывного анализа
+2024-09-29 16:49:25,940 - aiogram.dispatcher - INFO - Run polling for bot @MoiBabkiSTAT_bot id=7549127107 - 'My/Mony'
+2024-09-29 16:50:13,749 - __main__ - INFO - Получены исторические данные для BTC на 1m
+2024-09-29 16:50:24,761 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-09-29 16:50:24,943 - cmdstanpy - DEBUG - Adding TBB (C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-09-29 16:50:25,440 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmplt_9ycd1\zv3hdzxp.json
+2024-09-29 16:50:30,422 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmplt_9ycd1\4eq163s0.json
+2024-09-29 16:50:30,425 - cmdstanpy - DEBUG - idx 0
+2024-09-29 16:50:30,425 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-09-29 16:50:30,425 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\lisyu\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=73260', 'data', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmplt_9ycd1\\zv3hdzxp.json', 'init=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmplt_9ycd1\\4eq163s0.json', 'output', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmplt_9ycd1\\prophet_model4ang8bhz\\prophet_model-20240929165030.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-09-29 16:50:30,426 - cmdstanpy - INFO - Chain [1] start processing
+2024-09-29 16:50:35,665 - cmdstanpy - INFO - Chain [1] done processing
+2024-09-29 17:01:51,219 - aiogram.event - INFO - Update id=868752410 is handled. Duration 1375 ms by bot id=7549127107
+2024-09-29 17:01:53,431 - aiogram.event - INFO - Update id=868752411 is handled. Duration 859 ms by bot id=7549127107
+2024-09-29 17:01:56,741 - aiogram.event - INFO - Update id=868752412 is handled. Duration 858 ms by bot id=7549127107
+2024-09-29 17:02:02,946 - aiogram.event - INFO - Update id=868752413 is handled. Duration 62 ms by bot id=7549127107
+2024-09-29 17:02:08,992 - __main__ - INFO - Получены исторические данные для BTC на 1d
+2024-09-29 17:02:09,035 - aiogram.event - INFO - Update id=868752414 is not handled. Duration 1328 ms by bot id=7549127107
+2024-09-29 17:02:09,036 - aiogram.event - ERROR - Cause exception while process update id=868752414 by bot id=7549127107
+TypeError: float() argument must be a string or a real number, not 'Period'
+Traceback (most recent call last):
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1287, in handle_buttons
+    await handle_chart_button(message)
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1324, in handle_chart_button
+    chart = await generate_chart()
+            ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1393, in generate_chart
+    plt.plot(df.index, df['close'], label=symbol)
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\pyplot.py", line 3794, in plot
+    return gca().plot(
+           ^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\axes\_axes.py", line 1781, in plot
+    self.add_line(line)
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\axes\_base.py", line 2339, in add_line
+    self._update_line_limits(line)
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\axes\_base.py", line 2362, in _update_line_limits
+    path = line.get_path()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\lines.py", line 1037, in get_path
+    self.recache()
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\lines.py", line 674, in recache
+    x = _to_unmasked_float_array(xconv).ravel()
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\matplotlib\cbook.py", line 1398, in _to_unmasked_float_array
+    return np.asarray(x, float)
+           ^^^^^^^^^^^^^^^^^^^^
+TypeError: float() argument must be a string or a real number, not 'Period'
+2024-09-29 17:02:14,857 - aiogram.event - INFO - Update id=868752415 is handled. Duration 170 ms by bot id=7549127107
+2024-09-29 17:02:20,852 - aiogram.event - INFO - Update id=868752416 is not handled. Duration 0 ms by bot id=7549127107
+2024-09-29 17:02:20,853 - aiogram.event - ERROR - Cause exception while process update id=868752416 by bot id=7549127107
+TypeError: get_crypto_news() takes 0 positional arguments but 1 was given
+Traceback (most recent call last):
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1291, in handle_buttons
+    await handle_news_button(message)
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1332, in handle_news_button
+    news = await get_crypto_news()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1436, in get_crypto_news
+    news = await get_crypto_news(symbol)
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_crypto_news() takes 0 positional arguments but 1 was given
+2024-09-29 17:10:51,293 - __main__ - INFO - Общая физическая память: 15.94 ГБ
+2024-09-29 17:10:51,294 - __main__ - INFO - Настроено использование 4 ядер процессора
+2024-09-29 17:10:51,295 - __main__ - INFO - GPU не обнаружен, используется только CPU
+2024-09-29 17:10:51,295 - __main__ - INFO - Применены оптимизации для CPU
+2024-09-29 17:10:51,296 - __main__ - INFO - Применена политика событийного цикла для Windows
+2024-09-29 17:10:51,297 - __main__ - INFO - Установлен лимит использования памяти: 14.34 GB
+2024-09-29 17:10:51,297 - __main__ - INFO - Запуск торгового бота...
+2024-09-29 17:10:51,298 - __main__ - INFO - Бот запускается...
+2024-09-29 17:10:51,756 - __main__ - INFO - Сообщение о запуске отправлено
+2024-09-29 17:10:51,757 - __main__ - INFO - Запуск задач непрерывного анализа...
+2024-09-29 17:10:51,757 - __main__ - INFO - Начало поллинга...
+2024-09-29 17:10:51,758 - aiogram.dispatcher - INFO - Start polling
+2024-09-29 17:10:51,758 - __main__ - INFO - Начало цикла непрерывного анализа
+2024-09-29 17:10:51,762 - __main__ - INFO - Начало анализа BTC на 1m
+2024-09-29 17:10:51,767 - __main__ - ERROR - Ошибка при получении спотового баланса: await wasn't used with future
+2024-09-29 17:10:51,768 - __main__ - INFO - Начало анализа BTC на 15m
+2024-09-29 17:10:51,770 - __main__ - ERROR - Ошибка при мониторинге позиций: Task <Task pending name='Task-8' coro=<monitor_positions() running at c:\Users\lisyu\бот\trading_bot.py:1041>> got Future <Task pending name='Task-13' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:10:51,770 - __main__ - INFO - Начало анализа BTC на 5m
+2024-09-29 17:10:51,771 - __main__ - INFO - Начало анализа BTC на 30m
+2024-09-29 17:10:51,773 - __main__ - ERROR - Ошибка получения данных для BTC на 5m: Task <Task pending name='Task-20' coro=<analyze_crypto_wrapper() running at c:\Users\lisyu\бот\trading_bot.py:666> cb=[_run_until_complete_cb() at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py:182]> got Future <Task pending name='Task-21' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:10:51,774 - __main__ - WARNING - Нет данных для BTC на 5m
+2024-09-29 17:10:51,777 - __main__ - WARNING - Не удалось получить результаты для BTC на 5m
+2024-09-29 17:10:51,778 - __main__ - INFO - Начало анализа BTC на 1h
+2024-09-29 17:10:51,779 - __main__ - ERROR - Ошибка получения данных для BTC на 1h: Task <Task pending name='Task-32' coro=<analyze_crypto_wrapper() running at c:\Users\lisyu\бот\trading_bot.py:666> cb=[_run_until_complete_cb() at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py:182]> got Future <Task pending name='Task-27' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:10:51,781 - __main__ - WARNING - Нет данных для BTC на 1h
+2024-09-29 17:10:51,781 - __main__ - WARNING - Не удалось получить результаты для BTC на 1h
+2024-09-29 17:10:51,782 - __main__ - INFO - Начало анализа BTC на 4h
+2024-09-29 17:10:51,810 - aiogram.dispatcher - INFO - Run polling for bot @MoiBabkiSTAT_bot id=7549127107 - 'My/Mony'
+2024-09-29 17:11:00,048 - __main__ - ERROR - Ошибка получения данных для BTC на 1m: Task <Task pending name='Task-12' coro=<analyze_crypto_wrapper() running at c:\Users\lisyu\бот\trading_bot.py:666> cb=[_run_until_complete_cb() at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py:182]> got Future <Task pending name='Task-36' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:11:00,049 - __main__ - WARNING - Нет данных для BTC на 1m
+2024-09-29 17:11:00,050 - __main__ - WARNING - Не удалось получить результаты для BTC на 1m
+2024-09-29 17:11:00,052 - __main__ - ERROR - Ошибка при управлении рисками: Event loop is closed
+2024-09-29 17:11:00,052 - __main__ - INFO - Начало анализа BTC на 1d
+2024-09-29 17:11:00,053 - __main__ - ERROR - Ошибка получения данных для BTC на 1d: Event loop is closed
+2024-09-29 17:11:00,053 - __main__ - WARNING - Нет данных для BTC на 1d
+2024-09-29 17:11:00,054 - __main__ - WARNING - Не удалось получить результаты для BTC на 1d
+2024-09-29 17:11:00,055 - __main__ - INFO - Начало анализа ETH на 1m
+2024-09-29 17:17:56,861 - __main__ - INFO - Общая физическая память: 15.94 ГБ
+2024-09-29 17:17:56,862 - __main__ - INFO - Настроено использование 4 ядер процессора
+2024-09-29 17:17:56,862 - __main__ - INFO - GPU не обнаружен, используется только CPU
+2024-09-29 17:17:56,862 - __main__ - INFO - Применены оптимизации для CPU
+2024-09-29 17:17:56,863 - __main__ - INFO - Применена политика событийного цикла для Windows
+2024-09-29 17:17:56,865 - __main__ - INFO - Установлен лимит использования памяти: 14.34 GB
+2024-09-29 17:17:56,865 - __main__ - INFO - Запуск торгового бота...
+2024-09-29 17:17:56,867 - __main__ - INFO - Бот запускается...
+2024-09-29 17:17:57,071 - __main__ - INFO - Сообщение о запуске отправлено
+2024-09-29 17:17:57,072 - __main__ - INFO - Запуск задач непрерывного анализа...
+2024-09-29 17:17:57,072 - __main__ - INFO - Начало поллинга...
+2024-09-29 17:17:57,073 - aiogram.dispatcher - INFO - Start polling
+2024-09-29 17:17:57,073 - __main__ - INFO - Начало цикла непрерывного анализа
+2024-09-29 17:17:57,075 - __main__ - INFO - Начало анализа BTC на 1m
+2024-09-29 17:17:57,077 - __main__ - INFO - Начало анализа BTC на 5m
+2024-09-29 17:17:57,079 - __main__ - ERROR - Ошибка получения данных для BTC на 5m: Task <Task pending name='Task-17' coro=<analyze_crypto_wrapper() running at c:\Users\lisyu\бот\trading_bot.py:666> cb=[_run_until_complete_cb() at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py:182]> got Future <Task pending name='Task-13' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:17:57,080 - __main__ - INFO - Начало анализа BTC на 15m
+2024-09-29 17:17:57,083 - __main__ - WARNING - Нет данных для BTC на 5m
+2024-09-29 17:17:57,084 - __main__ - ERROR - Ошибка получения данных для BTC на 15m: Task <Task pending name='Task-18' coro=<analyze_crypto_wrapper() running at c:\Users\lisyu\бот\trading_bot.py:666> cb=[_run_until_complete_cb() at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py:182]> got Future <Task pending name='Task-19' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup(), Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:17:57,085 - __main__ - INFO - Начало анализа BTC на 30m
+2024-09-29 17:17:57,085 - __main__ - WARNING - Не удалось получить результаты для BTC на 5m
+2024-09-29 17:17:57,086 - __main__ - WARNING - Нет данных для BTC на 15m
+2024-09-29 17:17:57,088 - __main__ - WARNING - Не удалось получить результаты для BTC на 15m
+2024-09-29 17:17:57,089 - __main__ - INFO - Начало анализа BTC на 1h
+2024-09-29 17:17:57,090 - __main__ - INFO - Начало анализа BTC на 4h
+2024-09-29 17:17:57,090 - __main__ - ERROR - Ошибка получения данных для BTC на 1h: Task <Task pending name='Task-31' coro=<analyze_crypto_wrapper() running at c:\Users\lisyu\бот\trading_bot.py:666> cb=[_run_until_complete_cb() at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py:182]> got Future <Task pending name='Task-24' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:17:57,092 - __main__ - WARNING - Нет данных для BTC на 1h
+2024-09-29 17:17:57,092 - __main__ - WARNING - Не удалось получить результаты для BTC на 1h
+2024-09-29 17:17:57,094 - __main__ - INFO - Начало анализа BTC на 1d
+2024-09-29 17:17:57,094 - __main__ - ERROR - Ошибка получения данных для BTC на 1d: Task <Task pending name='Task-38' coro=<analyze_crypto_wrapper() running at c:\Users\lisyu\бот\trading_bot.py:666> cb=[_run_until_complete_cb() at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py:182]> got Future <Task pending name='Task-33' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:17:57,095 - __main__ - WARNING - Нет данных для BTC на 1d
+2024-09-29 17:17:57,096 - __main__ - WARNING - Не удалось получить результаты для BTC на 1d
+2024-09-29 17:17:57,099 - __main__ - INFO - Начало анализа ETH на 1m
+2024-09-29 17:17:57,121 - aiogram.dispatcher - INFO - Run polling for bot @MoiBabkiSTAT_bot id=7549127107 - 'My/Mony'
+2024-09-29 17:18:00,574 - __main__ - ERROR - Ошибка получения данных для BTC на 1m: Task <Task pending name='Task-12' coro=<analyze_crypto_wrapper() running at c:\Users\lisyu\бот\trading_bot.py:666> cb=[_run_until_complete_cb() at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py:182]> got Future <Task pending name='Task-42' coro=<Exchange.load_markets_helper() running at C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\ccxt\async_support\base\exchange.py:272> wait_for=<_GatheringFuture pending cb=[Task.task_wakeup()]> cb=[Task.task_wakeup()]> attached to a different loop
+2024-09-29 17:18:00,576 - __main__ - WARNING - Нет данных для BTC на 1m
+2024-09-29 17:18:00,576 - __main__ - WARNING - Не удалось получить результаты для BTC на 1m
+2024-09-29 17:18:00,577 - __main__ - ERROR - Ошибка при мониторинге позиций: Event loop is closed
+2024-09-29 17:18:00,578 - __main__ - ERROR - Ошибка при получении спотового баланса: Event loop is closed
+2024-09-29 17:18:00,578 - __main__ - INFO - Начало анализа ETH на 5m
+2024-09-29 17:18:00,579 - __main__ - ERROR - Ошибка при управлении рисками: Event loop is closed
+2024-09-29 17:19:27,974 - aiogram.event - INFO - Update id=868752424 is handled. Duration 390 ms by bot id=7549127107
+2024-09-29 17:19:31,244 - aiogram.event - INFO - Update id=868752425 is not handled. Duration 234 ms by bot id=7549127107
+2024-09-29 17:19:31,244 - aiogram.event - ERROR - Cause exception while process update id=868752425 by bot id=7549127107
+KeyError: 'close'
+Traceback (most recent call last):
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1314, in handle_buttons
+    await handle_chart_button(message)
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1351, in handle_chart_button
+    chart = await generate_chart()
+            ^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1420, in generate_chart
+    plt.plot(df.index, df['close'], label=symbol)
+                       ~~^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\core\indexes\range.py", line 417, in get_loc
+    raise KeyError(key)
+KeyError: 'close'
+2024-09-29 17:19:32,731 - aiogram.event - INFO - Update id=868752426 is handled. Duration 77 ms by bot id=7549127107
+2024-09-29 17:19:34,489 - aiogram.event - INFO - Update id=868752427 is not handled. Duration 0 ms by bot id=7549127107
+2024-09-29 17:19:34,490 - aiogram.event - ERROR - Cause exception while process update id=868752427 by bot id=7549127107
+TypeError: get_crypto_news() takes 0 positional arguments but 1 was given
+Traceback (most recent call last):
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1318, in handle_buttons
+    await handle_news_button(message)
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1359, in handle_news_button
+    news = await get_crypto_news()
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\lisyu\бот\trading_bot.py", line 1463, in get_crypto_news
+    news = await get_crypto_news(symbol)
+                 ^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: get_crypto_news() takes 0 positional arguments but 1 was given
+2024-09-29 21:58:38,852 - __main__ - INFO - Общая физическая память: 15.94 ГБ
+2024-09-29 21:58:38,853 - __main__ - INFO - Настроено использование 4 ядер процессора
+2024-09-29 21:58:38,853 - __main__ - INFO - GPU не обнаружен, используется только CPU
+2024-09-29 21:58:38,854 - __main__ - INFO - Применены оптимизации для CPU
+2024-09-29 21:58:38,854 - __main__ - INFO - Применена политика событийного цикла для Windows
+2024-09-29 21:58:38,856 - __main__ - INFO - Установлен лимит использования памяти: 14.34 GB
+2024-09-29 21:58:38,856 - __main__ - INFO - Запуск торгового бота...
+2024-09-29 21:58:38,857 - __main__ - INFO - Бот запускается...
+2024-09-29 21:58:39,173 - __main__ - INFO - Сообщение о запуске отправлено
+2024-09-29 21:58:39,173 - __main__ - INFO - Запуск задач непрерывного анализа...
+2024-09-29 21:58:39,174 - __main__ - INFO - Начало поллинга...
+2024-09-29 21:58:39,174 - aiogram.dispatcher - INFO - Start polling
+2024-09-29 21:58:39,174 - __main__ - INFO - Начало цикла непрерывного анализа
+2024-09-29 21:58:39,175 - __main__ - INFO - Автоматический обмен остановлен
+2024-09-29 21:58:39,176 - __main__ - INFO - Начало анализа BTC на 1m
+2024-09-29 21:58:39,177 - __main__ - INFO - Начало анализа BTC на 5m
+2024-09-29 21:58:39,177 - __main__ - INFO - Начало анализа BTC на 15m
+2024-09-29 21:58:39,177 - __main__ - INFO - Начало анализа BTC на 30m
+2024-09-29 21:58:39,178 - __main__ - INFO - Начало анализа BTC на 1h
+2024-09-29 21:58:39,179 - __main__ - INFO - Начало анализа BTC на 4h
+2024-09-29 21:58:39,179 - __main__ - INFO - Начало анализа BTC на 1d
+2024-09-29 21:58:39,180 - __main__ - INFO - Начало анализа ETH на 1m
+2024-09-29 21:58:39,181 - __main__ - INFO - Начало анализа ETH на 5m
+2024-09-29 21:58:39,181 - __main__ - INFO - Начало анализа ETH на 15m
+2024-09-29 21:58:39,182 - __main__ - INFO - Начало анализа ETH на 30m
+2024-09-29 21:58:39,183 - __main__ - INFO - Начало анализа ETH на 1h
+2024-09-29 21:58:39,184 - __main__ - INFO - Начало анализа ETH на 4h
+2024-09-29 21:58:39,184 - __main__ - INFO - Начало анализа ETH на 1d
+2024-09-29 21:58:39,185 - __main__ - INFO - Начало анализа BNB на 1m
+2024-09-29 21:58:39,186 - __main__ - INFO - Начало анализа BNB на 5m
+2024-09-29 21:58:39,186 - __main__ - INFO - Начало анализа BNB на 15m
+2024-09-29 21:58:39,186 - __main__ - INFO - Начало анализа BNB на 30m
+2024-09-29 21:58:39,187 - __main__ - INFO - Начало анализа BNB на 1h
+2024-09-29 21:58:39,189 - __main__ - INFO - Начало анализа BNB на 4h
+2024-09-29 21:58:39,189 - __main__ - INFO - Начало анализа BNB на 1d
+2024-09-29 21:58:39,190 - __main__ - INFO - Начало анализа XRP на 1m
+2024-09-29 21:58:39,190 - __main__ - INFO - Начало анализа XRP на 5m
+2024-09-29 21:58:39,191 - __main__ - INFO - Начало анализа XRP на 15m
+2024-09-29 21:58:39,191 - __main__ - INFO - Начало анализа XRP на 30m
+2024-09-29 21:58:39,192 - __main__ - INFO - Начало анализа XRP на 1h
+2024-09-29 21:58:39,192 - __main__ - INFO - Начало анализа XRP на 4h
+2024-09-29 21:58:39,194 - __main__ - INFO - Начало анализа XRP на 1d
+2024-09-29 21:58:39,194 - __main__ - INFO - Начало анализа ADA на 1m
+2024-09-29 21:58:39,195 - __main__ - INFO - Начало анализа ADA на 5m
+2024-09-29 21:58:39,195 - __main__ - INFO - Начало анализа ADA на 15m
+2024-09-29 21:58:39,196 - __main__ - INFO - Начало анализа ADA на 30m
+2024-09-29 21:58:39,197 - __main__ - INFO - Начало анализа ADA на 1h
+2024-09-29 21:58:39,198 - __main__ - INFO - Начало анализа ADA на 4h
+2024-09-29 21:58:39,199 - __main__ - INFO - Начало анализа ADA на 1d
+2024-09-29 21:58:39,199 - __main__ - INFO - Начало анализа DOT на 1m
+2024-09-29 21:58:39,202 - __main__ - INFO - Начало анализа DOT на 5m
+2024-09-29 21:58:39,205 - __main__ - INFO - Начало анализа DOT на 15m
+2024-09-29 21:58:39,206 - __main__ - INFO - Начало анализа DOT на 30m
+2024-09-29 21:58:39,206 - __main__ - INFO - Начало анализа DOT на 1h
+2024-09-29 21:58:39,207 - __main__ - INFO - Начало анализа DOT на 4h
+2024-09-29 21:58:39,208 - __main__ - INFO - Начало анализа DOT на 1d
+2024-09-29 21:58:39,208 - __main__ - INFO - Начало анализа LTC на 1m
+2024-09-29 21:58:39,209 - __main__ - INFO - Начало анализа LTC на 5m
+2024-09-29 21:58:39,209 - __main__ - INFO - Начало анализа LTC на 15m
+2024-09-29 21:58:39,211 - __main__ - INFO - Начало анализа LTC на 30m
+2024-09-29 21:58:39,212 - __main__ - INFO - Начало анализа LTC на 1h
+2024-09-29 21:58:39,213 - __main__ - INFO - Начало анализа LTC на 4h
+2024-09-29 21:58:39,214 - __main__ - INFO - Начало анализа LTC на 1d
+2024-09-29 21:58:39,215 - __main__ - INFO - Начало анализа LINK на 1m
+2024-09-29 21:58:39,215 - __main__ - INFO - Начало анализа LINK на 5m
+2024-09-29 21:58:39,216 - __main__ - INFO - Начало анализа LINK на 15m
+2024-09-29 21:58:39,216 - __main__ - INFO - Начало анализа LINK на 30m
+2024-09-29 21:58:39,217 - __main__ - INFO - Начало анализа LINK на 1h
+2024-09-29 21:58:39,217 - __main__ - INFO - Начало анализа LINK на 4h
+2024-09-29 21:58:39,218 - __main__ - INFO - Начало анализа LINK на 1d
+2024-09-29 21:58:39,223 - aiogram.dispatcher - INFO - Run polling for bot @MoiBabkiSTAT_bot id=7549127107 - 'My/Mony'
+2024-09-29 21:58:44,218 - __main__ - INFO - Получены исторические данные для BTC на 4h
+2024-09-29 21:58:44,292 - __main__ - INFO - Добавлены технические индикаторы для DataFrame
+2024-09-29 21:58:44,299 - __main__ - INFO - Данные подготовлены для машинного обучения
+2024-09-29 21:58:44,460 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-09-29 21:58:44,592 - cmdstanpy - DEBUG - Adding TBB (C:\Users\lisyu\AppData\Local\Programs\Python\Python312\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-09-29 21:58:44,616 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmpy6v7_wj1\3lo1a54g.json
+2024-09-29 21:58:44,634 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmpy6v7_wj1\c0b92_bo.json
+2024-09-29 21:58:44,637 - cmdstanpy - DEBUG - idx 0
+2024-09-29 21:58:44,637 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-09-29 21:58:44,638 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\lisyu\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=64521', 'data', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\3lo1a54g.json', 'init=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\c0b92_bo.json', 'output', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\prophet_model71i332es\\prophet_model-20240929215844.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-09-29 21:58:44,638 - cmdstanpy - INFO - Chain [1] start processing
+2024-09-29 21:58:44,799 - cmdstanpy - INFO - Chain [1] done processing
+2024-09-29 21:58:44,917 - __main__ - WARNING - Модель для BTC (4h) не найдена. Будет создана новая модель.
+2024-09-29 21:58:44,917 - __main__ - INFO - Построена ансамблевая модель
+2024-09-29 21:58:46,058 - __main__ - INFO - Модель для BTC (4h) сохранена в saved_models/BTC_4h_model.joblib
+2024-09-29 21:58:49,123 - __main__ - INFO - Проведена валидация модели. Средний score: 0.2674
+2024-09-29 21:59:00,443 - __main__ - INFO - Бэктестинг завершен. Прибыль: -2507.21 USDT
+2024-09-29 21:59:00,755 - __main__ - INFO - Выполнен анализ остатков модели
+2024-09-29 21:59:01,876 - __main__ - INFO - Выполнен мониторинг производительности модели. Средняя MSE: 1121023.8779
+2024-09-29 21:59:01,877 - __main__ - INFO - Обучение и оценка моделей для BTC (4h) заняло 16.96 секунд
+2024-09-29 21:59:01,896 - __main__ - ERROR - Ошибка при анализе BTC на 4h: name 'get_crypto_news' is not defined
+2024-09-29 21:59:01,920 - __main__ - ERROR - Ошибка при получении данных для ETH на 4h: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=ETHUSDT&startTime=1727625600001
+2024-09-29 21:59:01,921 - __main__ - WARNING - Нет данных для ETH на 4h
+2024-09-29 21:59:01,921 - __main__ - WARNING - Не удалось получить результаты для ETH на 4h
+2024-09-29 21:59:01,922 - __main__ - ERROR - Ошибка при получении данных для BNB на 30m: binance GET https://api.binance.com/api/v3/klines?interval=30m&limit=1000&symbol=BNBUSDT&startTime=1721658600001
+2024-09-29 21:59:01,923 - __main__ - WARNING - Нет данных для BNB на 30m
+2024-09-29 21:59:01,923 - __main__ - WARNING - Не удалось получить результаты для BNB на 30m
+2024-09-29 21:59:01,924 - __main__ - ERROR - Ошибка при получении данных для BNB на 4h: binance GET https://api.binance.com/api/v3/klines?interval=4h&limit=1000&symbol=BNBUSDT&startTime=1727625600001
+2024-09-29 21:59:01,925 - __main__ - WARNING - Нет данных для BNB на 4h
+2024-09-29 21:59:01,925 - __main__ - WARNING - Не удалось получить результаты для BNB на 4h
+2024-09-29 21:59:01,926 - __main__ - ERROR - Ошибка при получении данных для BNB на 1m: binance GET https://api.binance.com/api/v3/klines?interval=1m&limit=1000&symbol=BNBUSDT&startTime=1719920280001
+2024-09-29 21:59:01,929 - __main__ - WARNING - Нет данных для BNB на 1m
+2024-09-29 21:59:01,929 - __main__ - WARNING - Не удалось получить результаты для BNB на 1m
+2024-09-29 21:59:01,929 - __main__ - ERROR - Ошибка при получении данных для BTC на 1d: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=BTCUSDT&startTime=1727568000001
+2024-09-29 21:59:01,930 - __main__ - WARNING - Нет данных для BTC на 1d
+2024-09-29 21:59:01,930 - __main__ - WARNING - Не удалось получить результаты для BTC на 1d
+2024-09-29 21:59:01,931 - __main__ - ERROR - Ошибка при получении данных для BTC на 5m: binance GET https://api.binance.com/api/v3/klines?interval=5m&limit=1000&symbol=BTCUSDT&startTime=1720160100001
+2024-09-29 21:59:01,932 - __main__ - WARNING - Нет данных для BTC на 5m
+2024-09-29 21:59:01,933 - __main__ - WARNING - Не удалось получить результаты для BTC на 5m
+2024-09-29 21:59:01,933 - __main__ - ERROR - Ошибка при получении данных для BTC на 30m: binance GET https://api.binance.com/api/v3/klines?interval=30m&limit=1000&symbol=BTCUSDT&startTime=1721658600001
+2024-09-29 21:59:01,934 - __main__ - WARNING - Нет данных для BTC на 30m
+2024-09-29 21:59:01,934 - __main__ - WARNING - Не удалось получить результаты для BTC на 30m
+2024-09-29 21:59:01,935 - __main__ - ERROR - Ошибка при получении данных для ETH на 1d: binance GET https://api.binance.com/api/v3/klines?interval=1d&limit=1000&symbol=ETHUSDT&startTime=1727568000001
+2024-09-29 21:59:01,937 - __main__ - WARNING - Нет данных для ETH на 1d
+2024-09-29 21:59:01,937 - __main__ - WARNING - Не удалось получить результаты для ETH на 1d
+2024-09-29 21:59:01,951 - __main__ - ERROR - Ошибка при получении данных для BNB на 15m: binance GET https://api.binance.com/api/v3/klines?interval=15m&limit=1000&symbol=BNBUSDT&startTime=1720759500001
+2024-09-29 21:59:01,952 - __main__ - WARNING - Нет данных для BNB на 15m
+2024-09-29 21:59:01,953 - __main__ - WARNING - Не удалось получить результаты для BNB на 15m
+2024-09-29 21:59:01,953 - __main__ - ERROR - Ошибка при получении данных для BNB на 5m: binance GET https://api.binance.com/api/v3/klines?interval=5m&limit=1000&symbol=BNBUSDT&startTime=1720160100001
+2024-09-29 21:59:01,954 - __main__ - WARNING - Нет данных для BNB на 5m
+2024-09-29 21:59:01,954 - __main__ - WARNING - Не удалось получить результаты для BNB на 5m
+2024-09-29 21:59:01,955 - __main__ - ERROR - Ошибка при получении данных для ETH на 1h: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=ETHUSDT&startTime=1723456800001
+2024-09-29 21:59:01,955 - __main__ - WARNING - Нет данных для ETH на 1h
+2024-09-29 21:59:01,955 - __main__ - WARNING - Не удалось получить результаты для ETH на 1h
+2024-09-29 21:59:01,957 - __main__ - ERROR - Ошибка при получении данных для ETH на 5m: binance GET https://api.binance.com/api/v3/klines?interval=5m&limit=1000&symbol=ETHUSDT&startTime=1720160100001
+2024-09-29 21:59:01,958 - __main__ - WARNING - Нет данных для ETH на 5m
+2024-09-29 21:59:01,958 - __main__ - WARNING - Не удалось получить результаты для ETH на 5m
+2024-09-29 21:59:01,959 - __main__ - ERROR - Ошибка при получении данных для ETH на 15m: binance GET https://api.binance.com/api/v3/klines?interval=15m&limit=1000&symbol=ETHUSDT&startTime=1720759500001
+2024-09-29 21:59:01,960 - __main__ - WARNING - Нет данных для ETH на 15m
+2024-09-29 21:59:01,961 - __main__ - WARNING - Не удалось получить результаты для ETH на 15m
+2024-09-29 21:59:01,988 - __main__ - ERROR - Ошибка при получении данных для ETH на 1m: binance GET https://api.binance.com/api/v3/klines?interval=1m&limit=1000&symbol=ETHUSDT&startTime=1719920280001
+2024-09-29 21:59:01,988 - __main__ - WARNING - Нет данных для ETH на 1m
+2024-09-29 21:59:01,989 - __main__ - WARNING - Не удалось получить результаты для ETH на 1m
+2024-09-29 21:59:01,989 - __main__ - ERROR - Ошибка при получении данных для BNB на 1h: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BNBUSDT&startTime=1723456800001
+2024-09-29 21:59:01,991 - __main__ - WARNING - Нет данных для BNB на 1h
+2024-09-29 21:59:01,991 - __main__ - WARNING - Не удалось получить результаты для BNB на 1h
+2024-09-29 21:59:01,992 - __main__ - ERROR - Ошибка при получении данных для BTC на 1h: binance GET https://api.binance.com/api/v3/klines?interval=1h&limit=1000&symbol=BTCUSDT&startTime=1723456800001
+2024-09-29 21:59:01,992 - __main__ - WARNING - Нет данных для BTC на 1h
+2024-09-29 21:59:01,993 - __main__ - WARNING - Не удалось получить результаты для BTC на 1h
+2024-09-29 21:59:01,994 - __main__ - ERROR - Ошибка при получении данных для BTC на 15m: binance GET https://api.binance.com/api/v3/klines?interval=15m&limit=1000&symbol=BTCUSDT&startTime=1720759500001
+2024-09-29 21:59:01,996 - __main__ - WARNING - Нет данных для BTC на 15m
+2024-09-29 21:59:01,996 - __main__ - WARNING - Не удалось получить результаты для BTC на 15m
+2024-09-29 21:59:02,188 - __main__ - INFO - Получены исторические данные для BNB на 1d
+2024-09-29 21:59:02,211 - __main__ - INFO - Добавлены технические индикаторы для DataFrame
+2024-09-29 21:59:02,218 - __main__ - INFO - Данные подготовлены для машинного обучения
+2024-09-29 21:59:02,275 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-09-29 21:59:02,408 - cmdstanpy - DEBUG - TBB already found in load path
+2024-09-29 21:59:02,423 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmpy6v7_wj1\2kkwzsrw.json
+2024-09-29 21:59:02,427 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmpy6v7_wj1\x9pj_lht.json
+2024-09-29 21:59:02,429 - cmdstanpy - DEBUG - idx 0
+2024-09-29 21:59:02,429 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-09-29 21:59:02,430 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\lisyu\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=19822', 'data', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\2kkwzsrw.json', 'init=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\x9pj_lht.json', 'output', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\prophet_modeld4d430gj\\prophet_model-20240929215902.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-09-29 21:59:02,430 - cmdstanpy - INFO - Chain [1] start processing
+2024-09-29 21:59:02,771 - cmdstanpy - INFO - Chain [1] done processing
+2024-09-29 21:59:02,824 - __main__ - WARNING - Модель для BNB (1d) не найдена. Будет создана новая модель.
+2024-09-29 21:59:02,825 - __main__ - INFO - Построена ансамблевая модель
+2024-09-29 21:59:03,082 - __main__ - INFO - Модель для BNB (1d) сохранена в saved_models/BNB_1d_model.joblib
+2024-09-29 21:59:04,431 - __main__ - INFO - Проведена валидация модели. Средний score: -8.2517
+2024-09-29 21:59:05,593 - __main__ - INFO - Бэктестинг завершен. Прибыль: 1798.07 USDT
+2024-09-29 21:59:05,788 - __main__ - INFO - Выполнен анализ остатков модели
+2024-09-29 21:59:05,788 - __main__ - INFO - Выполнен мониторинг производительности модели. Средняя MSE: nan
+2024-09-29 21:59:05,788 - __main__ - INFO - Обучение и оценка моделей для BNB (1d) заняло 2.96 секунд
+2024-09-29 21:59:05,808 - __main__ - ERROR - Ошибка при анализе BNB на 1d: name 'get_crypto_news' is not defined
+2024-09-29 21:59:05,836 - __main__ - INFO - Получены исторические данные для XRP на 1d
+2024-09-29 21:59:05,861 - __main__ - INFO - Добавлены технические индикаторы для DataFrame
+2024-09-29 21:59:05,866 - __main__ - INFO - Данные подготовлены для машинного обучения
+2024-09-29 21:59:05,910 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-09-29 21:59:06,036 - cmdstanpy - DEBUG - TBB already found in load path
+2024-09-29 21:59:06,049 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmpy6v7_wj1\__zkak8k.json
+2024-09-29 21:59:06,054 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmpy6v7_wj1\80cptbf1.json
+2024-09-29 21:59:06,055 - cmdstanpy - DEBUG - idx 0
+2024-09-29 21:59:06,056 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-09-29 21:59:06,057 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\lisyu\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=31560', 'data', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\__zkak8k.json', 'init=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\80cptbf1.json', 'output', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\prophet_model4izg7lad\\prophet_model-20240929215906.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-09-29 21:59:06,057 - cmdstanpy - INFO - Chain [1] start processing
+2024-09-29 21:59:06,396 - cmdstanpy - INFO - Chain [1] done processing
+2024-09-29 21:59:06,451 - __main__ - WARNING - Модель для XRP (1d) не найдена. Будет создана новая модель.
+2024-09-29 21:59:06,452 - __main__ - INFO - Построена ансамблевая модель
+2024-09-29 21:59:06,702 - __main__ - INFO - Модель для XRP (1d) сохранена в saved_models/XRP_1d_model.joblib
+2024-09-29 21:59:07,762 - __main__ - INFO - Проведена валидация модели. Средний score: -5.6208
+2024-09-29 21:59:08,648 - __main__ - INFO - Бэктестинг завершен. Прибыль: -26908.86 USDT
+2024-09-29 21:59:08,849 - __main__ - INFO - Выполнен анализ остатков модели
+2024-09-29 21:59:08,849 - __main__ - INFO - Выполнен мониторинг производительности модели. Средняя MSE: nan
+2024-09-29 21:59:08,850 - __main__ - INFO - Обучение и оценка моделей для XRP (1d) заняло 2.40 секунд
+2024-09-29 21:59:08,869 - __main__ - ERROR - Ошибка при анализе XRP на 1d: name 'get_crypto_news' is not defined
+2024-09-29 21:59:08,922 - __main__ - INFO - Получены исторические данные для ADA на 4h
+2024-09-29 21:59:08,965 - __main__ - INFO - Добавлены технические индикаторы для DataFrame
+2024-09-29 21:59:08,970 - __main__ - INFO - Данные подготовлены для машинного обучения
+2024-09-29 21:59:09,036 - cmdstanpy - DEBUG - cmd: where.exe tbb.dll
+cwd: None
+2024-09-29 21:59:09,132 - cmdstanpy - DEBUG - TBB already found in load path
+2024-09-29 21:59:09,147 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmpy6v7_wj1\qt9wgkfi.json
+2024-09-29 21:59:09,166 - cmdstanpy - DEBUG - input tempfile: C:\Users\lisyu\AppData\Local\Temp\tmpy6v7_wj1\ky_9ru6l.json
+2024-09-29 21:59:09,167 - cmdstanpy - DEBUG - idx 0
+2024-09-29 21:59:09,168 - cmdstanpy - DEBUG - running CmdStan, num_threads: None
+2024-09-29 21:59:09,168 - cmdstanpy - DEBUG - CmdStan args: ['C:\\Users\\lisyu\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=67828', 'data', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\qt9wgkfi.json', 'init=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\ky_9ru6l.json', 'output', 'file=C:\\Users\\lisyu\\AppData\\Local\\Temp\\tmpy6v7_wj1\\prophet_model7nffw7wg\\prophet_model-20240929215909.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-09-29 21:59:09,169 - cmdstanpy - INFO - Chain [1] start processing
+2024-09-29 21:59:09,357 - cmdstanpy - INFO - Chain [1] done processing
+2024-09-29 21:59:09,467 - __main__ - WARNING - Модель для ADA (4h) не найдена. Будет создана новая модель.
+2024-09-29 21:59:09,467 - __main__ - INFO - Построена ансамблевая модель
+2024-09-29 21:59:10,178 - __main__ - INFO - Модель для ADA (4h) сохранена в saved_models/ADA_4h_model.joblib
+2024-09-29 21:59:12,588 - __main__ - INFO - Проведена валидация модели. Средний score: -0.1226
+2024-09-29 21:59:26,604 - __main__ - INFO - Бэктестинг завершен. Прибыль: -519665.76 USDT
+2024-09-29 21:59:26,888 - __main__ - INFO - Выполнен анализ остатков модели
